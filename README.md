@@ -1,6 +1,12 @@
 # S7-assignment
 S7 assignment submission, CIFAR10 
 
+## Result-
+1. S7-assignment-overfitting.ipynb = Overfitting 
+
+
+
+
 ## Model Diagram
 ![Test Image](https://github.com/futartup/S7-assignment/blob/master/S7-assignment-model-diagram.png)
 
