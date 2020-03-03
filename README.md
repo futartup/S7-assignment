@@ -1,7 +1,8 @@
 # S7-assignment
 S7 assignment submission, CIFAR10 
 
-
+## Model Diagram
+![Alt text] https://github.com/futartup/S7-assignment/blob/master/S7-assignment-model-diagram.png
 
 
 
