@@ -6,6 +6,9 @@ S7 assignment submission, CIFAR10
 
 
 
+
+
+## Model Description
 | s,p| Dilation | Input | kernel | Output | GRF | Total Parameters | Jout |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1,1| 1| 32 * 32 * 3 | 3 * 3 * 3 * 16 | 32 * 32 * 16 | 3 | 432 | 1 |
