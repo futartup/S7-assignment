@@ -2,7 +2,7 @@
 S7 assignment submission, CIFAR10 
 
 ## Result-
-1. S7-assignment-overfitting.ipynb = Overfitting 
+1. Overfitting model
 2. 80.13% accuracy in 15 epochs.
 
 
